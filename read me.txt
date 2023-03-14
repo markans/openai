@@ -1,0 +1,5 @@
+//To start client
+-> npm run dev
+
+//To start server
+-> npm run server
